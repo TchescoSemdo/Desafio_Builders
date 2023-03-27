@@ -1,0 +1,8 @@
+
+[caps]
+automationName = "UiAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+app = "C:\\Curso-QA-fullstack\\Project_bulders\\Builders\\UI\\App\\challenge-qa.apk"
+appWaitDuration = 30000
+newCommandTimeout = 600

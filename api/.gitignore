@@ -1,0 +1,5 @@
+# Arquivos de log
+log/*.log
+
+# Arquivos gerados automaticamente
+Gemfile.lock
